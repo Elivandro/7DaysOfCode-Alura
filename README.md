@@ -16,13 +16,13 @@
 
 ```
 git clone git@github.com:Elivandro/7DaysOfCode-Alura.git
-cd 7DaysOfCode-Alura
+cd 7DaysOfCode-Alura/scuba-php
 composer install
 ```
 
 ### executando o projeto
 
 ```
-cd 7DaysOfCode-Alura
+cd 7DaysOfCode-Alura/scuba-php
 php -S localhost:8000
 ```
