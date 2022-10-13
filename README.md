@@ -1,4 +1,5 @@
-# Sobre o projeto
+# Sobre o projeto - [Scuba-PHP](https://packagist.org/packages/davidmeth/scuba-php)
+
 
 >Implementar as seguintes funcionalidades: login, cadastro, validação de email, recuperação de senha e refatorar o ScubaPHP para algo mais moderno sem comprometer a entrega daquilo que é esperado pela gestão.
 >
@@ -9,8 +10,6 @@
 
 - [PHP 7.4](https://www.php.net/)
 - [Composer](https://getcomposer.org/)
-- [Scuba-PHP](https://packagist.org/packages/davidmeth/scuba-php)
-
 
 ### Baixando o projeto
 
