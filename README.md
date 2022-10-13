@@ -1,9 +1,9 @@
 # 7DaysOfCode-Alura
 
 ## Sobre o projeto
-```
-Implementar as seguintes funcionalidades: login, cadastro, validação de email, recuperação de senha e refatorar o ScubaPHP para algo mais moderno sem comprometer a entrega daquilo que é esperado pela gestão.
-```
+
+>Implementar as seguintes funcionalidades: login, cadastro, validação de email, recuperação de senha e refatorar o ScubaPHP para algo mais moderno sem comprometer a entrega daquilo que é esperado pela gestão.
+
 
 ### Requerimentos minimos:
 
