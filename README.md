@@ -1,8 +1,8 @@
-# 7DaysOfCode-Alura
-
-## Sobre o projeto
+# Sobre o projeto
 
 >Implementar as seguintes funcionalidades: login, cadastro, validação de email, recuperação de senha e refatorar o ScubaPHP para algo mais moderno sem comprometer a entrega daquilo que é esperado pela gestão.
+>
+>Além de abordar temas como criptografia, envio de emails, sessão, protocolo HTTP, manipulação de arquivos, também abordará a técnica Spin Selling, muito usada para vendas.
 
 
 ### Requerimentos minimos:
@@ -14,7 +14,7 @@
 
 ### Baixando o projeto
 
-```
+```sh
 git clone git@github.com:Elivandro/7DaysOfCode-Alura.git
 cd 7DaysOfCode-Alura/scuba-php
 composer install
@@ -22,7 +22,7 @@ composer install
 
 ### executando o projeto
 
-```
+```sh
 cd 7DaysOfCode-Alura/scuba-php
 php -S localhost:8000
 ```
