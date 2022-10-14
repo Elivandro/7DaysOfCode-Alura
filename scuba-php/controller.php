@@ -2,6 +2,12 @@
 
 function do_register()
 {
+    if($_POST['person']??false){
+        unset($_POST['person']['password-confirm']);
+        crud_create($_POST['person']);
+        header("Location: /?page=login");
+    }
+
     render_view('register');
 }
 
